@@ -1,0 +1,8 @@
+F:\source\fetchAssessment\bin\Release\net9.0\publish\FetchAssessment.exe
+F:\source\fetchAssessment\bin\Release\net9.0\publish\appsettings.Development.json
+F:\source\fetchAssessment\bin\Release\net9.0\publish\appsettings.json
+F:\source\fetchAssessment\bin\Release\net9.0\publish\FetchAssessment.dll
+F:\source\fetchAssessment\bin\Release\net9.0\publish\FetchAssessment.deps.json
+F:\source\fetchAssessment\bin\Release\net9.0\publish\FetchAssessment.runtimeconfig.json
+F:\source\fetchAssessment\bin\Release\net9.0\publish\FetchAssessment.pdb
+F:\source\fetchAssessment\bin\Release\net9.0\publish\Newtonsoft.Json.dll
